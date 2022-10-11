@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title Component 渲染文字大字 1`] = `
+<div>
+  大字
+</div>
+`;
+
+exports[`Title Component 渲染文字小字 1`] = `
+<div>
+  小字
+</div>
+`;
